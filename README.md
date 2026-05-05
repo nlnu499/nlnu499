@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Nikita 👋
 
-<!--
-**nlnu499/nlnu499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a web developer who enjoys building clean, useful, and interactive web apps.  
+🌱 Currently learning modern backend systems and improving my full-stack skills.  
+🚀 I love contributing to open-source projects and building side projects that solve real problems.  
+🧠 Passionate about problem-solving, system design, and exploring new technologies.  
+🎮 Outside coding, I enjoy tech experiments, games, and learning how things work under the hood.  
+ 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Interests
+- Frontend Development (React / UI design)
+- Backend APIs & databases
+- Performance optimization
+- Open-source collaboration
+  
+
+---
+
+### 🎯 Current Goals
+- Build  solid  projects
+- Contribute more to open-source
+- Improve system design understanding
